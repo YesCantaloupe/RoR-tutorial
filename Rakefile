@@ -3,4 +3,4 @@
 
 require File.expand_path('../config/application', __FILE__)
 
-RoRWebapp04::Application.load_tasks
+RoRWebapp::Application.load_tasks

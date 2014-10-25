@@ -24,4 +24,4 @@ def secure_token
 	end
 end
 
-RoRWebapp04::Application.config.secret_key_base = secure_token
+RoRWebapp::Application.config.secret_key_base = secure_token
